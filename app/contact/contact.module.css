@@ -1,0 +1,12 @@
+.contact {
+  background-image: url('/images/contact-img.jpeg') ;
+  background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh;
+    padding: 2rem;
+    text-align: center;
+    background-color: rgb(202, 242, 160);
+    padding: 2rem;
+   
+  }

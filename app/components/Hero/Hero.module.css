@@ -1,0 +1,25 @@
+.hero {
+    background-image: url('/images/skin-care.jpeg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh;
+    display: block;
+    text-align: center;
+    padding-top: 40px;
+    padding-left: 2rem;
+    padding-right:2 rem;
+    color: white;
+  }
+  .heading{
+    font-size: 3.5rem;
+    margin-bottom: 0.5rem;
+  }
+  .paragraph{
+    font-size: 1.2rem;
+    font: bold;
+    max-width: 600px;
+    line-height: 1.8;
+    margin: 0 auto;
+    
+}
